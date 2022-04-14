@@ -11,7 +11,7 @@ title: "Language technology"
 				<div class="description">Connect your external business applications to the RWS Language Cloud platform</div>
 			</li>
 			<li>
-				<h3><a href="https://developers.rws.com/studio-api-docs/apiconcepts/overview.html" target="_blank">Trados Studio</a></h3>
+				<h3><a href="https://developers.rws.com/studio-api-docs/index.html" target="_blank">Trados Studio</a></h3>
 				<div class="description">Customize your computer-assisted translation (CAT) tool to suit your unique way of working</div>
 			</li>
 			<li>
