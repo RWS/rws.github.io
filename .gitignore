@@ -1,15 +1,14 @@
-.classpath
-.project
-.checkstyle
-.flattened-pom.xml
-*.iml
-.idea
-.settings/
-target/
-classes/
-_site/
+###############
+#    folder   #
+###############
+/**/DROP/
+/**/TEMP/
+/**/packages/
+/**/bin/
+/**/obj/
+_site
 .DS_Store
+*.suo
+*.testlog
 .vscode
-
-gemfile*
-/.vs
+.vs
