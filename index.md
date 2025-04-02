@@ -14,7 +14,7 @@ _enableSearch: false
   </div>
 </div>
 
-<div class="container" style="margin-left: -10px;"">
+<div class="container" style="margin-left: -10px;">
   <h2 style="color: #006666;">Language Technology</h2>
   <p style="color: Black;">Turn your ideas into solutions with RWS. By integrating with RWS products, you can unlock advanced capabilities to meet your unique business requirements through APIs, SDKs, Add-ons and plugins.</p>    
   <div class="tile-container">
