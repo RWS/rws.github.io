@@ -9,7 +9,7 @@ TEMP_REPO_DIR=$PWD/../docs-gh-pages
 ACTOR=$1
 TOKEN=$2
 
-remote_repo="https://${ACTOR}:${TOKEN}@github.com/rws/Trados-Developers.git"
+remote_repo="https://${ACTOR}:${TOKEN}@github.com/rws/rws.github.io.git"
 
 echo "Removing temporary doc directory $TEMP_REPO_DIR"
 rm -rf $TEMP_REPO_DIR
