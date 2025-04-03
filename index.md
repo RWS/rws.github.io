@@ -31,7 +31,7 @@ _enableSearch: false
       </a>
     </div>
     <div class="tile">
-      <a href="https://developers.rws.com/studio-api-docs/index.html" target="_blank">
+      <a href="https://developers.rws.com/studio-api-docs/index.html">
         <h3 style="color: #008080">Trados Studio</h3>
         <p style="color: Black;">Develop plugins for Trados Studio desktop, such as translation and terminology providers, or build standalone applications for project automation.</p>
       </a>
