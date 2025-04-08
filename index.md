@@ -49,25 +49,25 @@ _enableSearch: false
   <h2 id="content-management" style="color: #006666;">Content Management</h2>
   <div class="tile-container">
     <div class="tile">
-      <a href="https://developers.rws.com/tridion-docs-api-docs/index.html" target="_blank">
+      <a href="https://developers.rws.com/tridion-docs-api-docs/index.html">
         <h3 style="color: #008080;">Tridion Docs</h3>
         <p style="color: Black;">Extend and automate standard functionality to meet the business needs of your ecosystem.</p>
       </a>
     </div>
     <div class="tile">
-      <a href="https://developers.rws.com/tridion-sites-api-docs/index.html" target="_blank">
+      <a href="https://developers.rws.com/tridion-sites-api-docs/index.html">
         <h3 style="color: #008080;">Tridion Sites</h3>
         <p style="color: Black;">Improve functionality, manage integrations, and customize the user interface of Tridion Sites.</p>
       </a>
     </div>
     <div class="tile">
-      <a href="https://developers.rws.com/xpp-api-docs/index.html" target="_blank">
+      <a href="https://developers.rws.com/xpp-api-docs/index.html">
         <h3 style="color: #008080;">XPP</h3>
         <p style="color: Black;">Streamline and automate the digital transformation and publishing of your content deliverables.</p>
       </a>
     </div>
     <div class="tile">
-      <a href="https://developers.rws.com/contenta-api-docs/index.html" target="_blank">
+      <a href="https://developers.rws.com/contenta-api-docs/index.html">
         <h3 style="color: #008080;">Contenta</h3>
         <p style="color: Black;">Enable integration and increase productivity with automation across the content lifecycle management workflow.</p>
       </a>
@@ -80,43 +80,43 @@ _enableSearch: false
   <p style="color: Black;">Explore our other SDKs and APIs...</p>
   <div class="tile-container">
     <div class="tile">
-      <a href="https://developers.rws.com/multiterm-api-docs/index.html" target="_blank">
+      <a href="https://developers.rws.com/multiterm-api-docs/index.html">
         <h3 style="color: #008080">MultiTerm</h3>
         <p style="color: Black;">Develop new ways to manage your terminology and share your existing termbases.</p>
       </a>
     </div>
     <div class="tile">
-      <a href="https://developers.rws.com/passolo-api-docs/index.html" target="_blank">
+      <a href="https://developers.rws.com/passolo-api-docs/index.html">
         <h3 style="color: #008080">Passolo</h3>
         <p style="color: Black;">Create your own add-ins to support your custom software localization process.</p>
       </a>
     </div>
     <div class="tile">
-      <a href="https://developers.rws.com/groupshare-api-docs/index.html" target="_blank">
+      <a href="https://developers.rws.com/groupshare-api-docs/index.html">
         <h3 style="color: #008080">Trados GroupShare</h3>
         <p style="color: Black;">Enhance the way you work in your on-premises translation management tool.</p>
       </a>
     </div>
     <div class="tile">
-      <a href="https://developers.rws.com/worldserver-api-docs/index.html" target="_blank">
+      <a href="https://developers.rws.com/worldserver-api-docs/index.html">
         <h3 style="color: #008080">WorldServer</h3>
         <p style="color: Black;">Improve functionality, manage integrations, and customize the user interface of your TMS.</p>
       </a>
     </div>
         <div class="tile">
-      <a href="https://developers.rws.com/mantra-api-docs/index.html" target="_blank">
+      <a href="https://developers.rws.com/mantra-api-docs/index.html">
         <h3 style="color: #008080">Managed Translation</h3>
         <p style="color: Black;">Integrate different types of translation resources in your localization process</p>
       </a>
     </div>
     <div class="tile">
-      <a href="https://developers.rws.com/multitrans-api-docs/index.html" target="_blank">
+      <a href="https://developers.rws.com/multitrans-api-docs/index.html">
         <h3 style="color: #008080">MultiTrans</h3>
         <p style="color: Black;">Automate third-party integrations and improve the management of your TMS projects.</p>
       </a>
     </div>
     <div class="tile">
-      <a href="https://developers.rws.com/business-manager-api-docs/index.html" target="_blank">
+      <a href="https://developers.rws.com/business-manager-api-docs/index.html">
         <h3 style="color: #008080">Trados Business Manager</h3>
         <p style="color: Black;">Create, edit and delete any data contained in your business management environment.</p>
       </a>
