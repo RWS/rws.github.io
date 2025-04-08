@@ -6,7 +6,7 @@
           "toc.yml",
           "*.md"
         ]
-      }     
+      }
     ],
     "resource": [
       {
@@ -31,10 +31,15 @@
     "dest": "_site",
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
+    "filemetadata": {
+      "langs": {
+        "api/**.yml": [ "csharp", "vb", "fsharp", "cpp" ]
+      }
+    },
     "template": [
       "RWSTemplate"
     ],
-    "postProcessors": [ "ExtractSearchIndex" ],
+    "postProcessors": [ "ExtractSearchIndex", "EnvironmentVariableProcessor" ],
     "globalMetadata": {
       "_enableSearch": true
     },

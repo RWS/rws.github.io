@@ -1,5 +1,4 @@
 {
-  "homepages": [],
   "source_base_path": "D:/a/rws.github.io/rws.github.io",
   "xrefmap": "xrefmap.yml",
   "files": [
@@ -9,19 +8,26 @@
         "resource": {
           "relative_path": "index.json"
         }
-      },
-      "is_incremental": false
+      }
     },
     {
       "type": "Conceptual",
       "source_relative_path": "README.md",
       "output": {
         ".html": {
-          "relative_path": "README.html",
-          "hash": "WCC9n8LHlNXOvfRHytTOgornkEnWTIowC+0w0cndfLQ="
+          "relative_path": "README.html"
         }
       },
-      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "RWSTemplate/Plugins/TradosStudioDocsPlugin.deps.json",
+      "output": {
+        "resource": {
+          "relative_path": "RWSTemplate/Plugins/TradosStudioDocsPlugin.deps.json"
+        }
+      },
       "version": ""
     },
     {
@@ -32,7 +38,6 @@
           "relative_path": "RWSTemplate/search-stopwords.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -43,7 +48,6 @@
           "relative_path": "RWSTemplate/token.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -54,18 +58,6 @@
           "relative_path": "docfx.json"
         }
       },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "docfx_project/docfx.json",
-      "output": {
-        "resource": {
-          "relative_path": "docfx_project/docfx.json"
-        }
-      },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -76,7 +68,6 @@
           "relative_path": "images/img-LYKO38meB07nqlRWjg04Oixq.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -87,7 +78,6 @@
           "relative_path": "images/img-T5WGtpUFg6PjQdXWOipIfV5g.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -98,7 +88,6 @@
           "relative_path": "images/trados-developers.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -106,11 +95,9 @@
       "source_relative_path": "index.md",
       "output": {
         ".html": {
-          "relative_path": "index.html",
-          "hash": "PM1VGsKbGJwUejDoctZkuo52zFyKlR8/xt4GVz2vZgY="
+          "relative_path": "index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -118,63 +105,15 @@
       "source_relative_path": "toc.yml",
       "output": {
         ".html": {
-          "relative_path": "toc.html",
-          "hash": "xR4FB+yvrqxDHWpmqsCSQIgXmoOOymblF68DBQihEj4="
+          "relative_path": "toc.html"
         },
         ".json": {
-          "relative_path": "toc.json",
-          "hash": "TCm0ydjftQHTIbAzZZ+uqfIFUTIcN4JQ6OEBavfr6j8="
+          "relative_path": "toc.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     }
   ],
-  "incremental_info": [
-    {
-      "status": {
-        "can_incremental": false,
-        "details": "Cannot build incrementally because last build info is missing.",
-        "incrementalPhase": "build",
-        "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "NoAvailableBuildCache"
-      },
-      "processors": {
-        "ConceptualDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 2,
-          "skipped_file_count": 0
-        },
-        "ResourceDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
-          "skipped_file_count": 0
-        },
-        "TocDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
-          "skipped_file_count": 0
-        }
-      }
-    },
-    {
-      "status": {
-        "can_incremental": false,
-        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
-        "incrementalPhase": "postProcessing",
-        "total_file_count": 0,
-        "skipped_file_count": 0
-      },
-      "processors": {}
-    }
-  ],
-  "version_info": {},
   "groups": [
     {
       "xrefmap": "xrefmap.yml"
