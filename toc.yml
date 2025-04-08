@@ -1,7 +1,9 @@
-- name: Trados Cloud
-  href: https://developers.rws.com/languagecloud-api-docs/index.html
-- name: Trados Studio
-  href: https://developers.rws.com/studio-api-docs/index.html
-- name: Language Weaver
-  href: https://developers.languageweaver.com/index.html
+- name: Language Technology
+  href: index.md#language-technology
+- name: Content Management
+  href: index.md#content-management
+- name: Others API & SDKs
+  href: index.md#others-sdks-and-apis
+- name: Getting Started & Support
+  href: index.md#getting-started-support
 

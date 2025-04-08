@@ -10,7 +10,7 @@ _enableSearch: false
 <div class="index-landing" style="position: relative;"> 
   <img src="/images/trados-developers.png" alt="Header Image" class="hero-image"/>
   <div class="header-text">
-    <h1 style="margin: 0;">RWS for Developers</h1>       
+    <h1 id="language-technology" style="margin: 0;">RWS for Developers</h1>       
   </div>
 </div>
 
@@ -46,19 +46,7 @@ _enableSearch: false
 </div>
 
 <div class="container" style="margin-left: -10px;">
-  <h2 style="color: #006666;">Getting Started & Support</h2>
-  <div class="tile-container">
-    <div class="tile">
-      <a href="https://community.rws.com/developers-more/" target="_blank">
-        <h3 style="color: #008080">Developer Support</h3>
-        <p style="color: Black;">Join the Developer Community to engage with fellow developers and get support.</p>
-      </a>
-    </div>
-  </div>
-</div>
-
-<div class="container" style="margin-left: -10px;">
-  <h2 style="color: #006666;">Content Management</h2>
+  <h2 id="content-management" style="color: #006666;">Content Management</h2>
   <div class="tile-container">
     <div class="tile">
       <a href="https://developers.rws.com/tridion-docs-api-docs/index.html" target="_blank">
@@ -88,7 +76,7 @@ _enableSearch: false
 </div>
 
 <div class="container" style="margin-left: -10px;">
-  <h2 style="color: #006666;">Other SDKs and APIs</h2>
+  <h2 id="others-sdks-and-apis" style="color: #006666;">Other SDKs and APIs</h2>
   <p style="color: Black;">Explore our other SDKs and APIs...</p>
   <div class="tile-container">
     <div class="tile">
@@ -131,6 +119,18 @@ _enableSearch: false
       <a href="https://developers.rws.com/business-manager-api-docs/index.html" target="_blank">
         <h3 style="color: #008080">Trados Business Manager</h3>
         <p style="color: Black;">Create, edit and delete any data contained in your business management environment.</p>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="container" style="margin-left: -10px;">
+  <h2 id="getting-started-support" style="color: #006666;">Getting Started & Support</h2>
+  <div class="tile-container">
+    <div class="tile">
+      <a href="https://community.rws.com/developers-more/" target="_blank">
+        <h3 style="color: #008080">Developer Support</h3>
+        <p style="color: Black;">Join the Developer Community to engage with fellow developers and get support.</p>
       </a>
     </div>
   </div>
