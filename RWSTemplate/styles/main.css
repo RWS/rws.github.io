@@ -444,17 +444,22 @@ article h4 {
 }
 
 .navbar-form .search-icon {
-  position: absolute;
-  border-top-left-radius: 5px;
-  border-bottom-left-radius: 5px;
-  color: var(--input-text);
-  background-color: transparent;
-  width: 2rem;
-  height: 32px;
-  line-height: 32px;
-  left: 0px;
-  text-align: center;
-  z-index: 2;
+    position: absolute;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    color: var(--input-text);
+    background-color: transparent;
+    width: 2rem;
+    height: 32px;
+    line-height: 32px;
+    left: 0px;
+    text-align: center;
+    z-index: 2;
+    padding-left: 10px;
+}
+
+.navbar-form #search-query {
+    padding-left: 32px; 
 }
 
 /* NAVBAR TOGGLED (small screens) */
