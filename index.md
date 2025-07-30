@@ -24,8 +24,10 @@ _enableSearch: false
         <p style="color: Black;">
           Integrate external applications with 
           <span style="font-weight: 600;">Trados Enterprise</span>, 
-          <span style="font-weight: 600;">Accelerate</span>, and 
-          <span style="font-weight: 600;">Team</span>. 
+          <span style="font-weight: 600;">Accelerate</span>, 
+          <span style="font-weight: 600;">Team</span>,
+          <span style="font-weight: 600;">Ignite</span> and 
+          <span style="font-weight: 600;">Go</span>. 
           Leverage the public API to automate projects or create add-ons for advanced workflow and UI customization.
         </p>
       </a>
@@ -33,7 +35,7 @@ _enableSearch: false
     <div class="tile">
       <a href="https://developers.rws.com/studio-api-docs/index.html">
         <h3 style="color: #008080">Trados Studio</h3>
-        <p style="color: Black;">Develop plugins for Trados Studio desktop, such as translation and terminology providers, or build standalone applications for project automation.</p>
+        <p style="color: Black;">Develop plugins for <span style="font-weight: 600;">Trados Studio</span> desktop, such as translation and terminology providers, or build standalone applications for project automation.</p>
       </a>
     </div>
     <div class="tile">
@@ -57,7 +59,7 @@ _enableSearch: false
     <div class="tile">
       <a href="https://developers.rws.com/tridion-sites-api-docs/index.html">
         <h3 style="color: #008080;">Tridion Sites</h3>
-        <p style="color: Black;">Improve functionality, manage integrations, and customize the user interface of Tridion Sites.</p>
+        <p style="color: Black;">Improve functionality, manage integrations, and customize the user interface of <span style="font-weight: 600;">Tridion Sites</span>.</p>
       </a>
     </div>
     <div class="tile">
@@ -130,7 +132,7 @@ _enableSearch: false
     <div class="tile">
       <a href="https://community.rws.com/developers-more/" target="_blank">
         <h3 style="color: #008080">Developer Support</h3>
-        <p style="color: Black;">Join the Developer Community to engage with fellow developers and get support.</p>
+        <p style="color: Black;">Join the <span style="font-weight: 600;">Developer Community</span> to engage with fellow developers and get support.</p>
       </a>
     </div>
   </div>
