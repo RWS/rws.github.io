@@ -39,7 +39,7 @@ _enableSearch: false
       </a>
     </div>
     <div class="tile">
-      <a href="https://developers.languageweaver.com/index.html" target="_blank">
+      <a href="https://developers.rws.com/languageweaver-api-docs/index.html">
         <h3 style="color: #008080">Language Weaver</h3>
         <p style="color: Black;">Integrate real-time, secure neural machine translation directly into your applications.</p>
       </a>
