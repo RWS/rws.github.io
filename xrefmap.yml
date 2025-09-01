@@ -1,3 +1,6 @@
 ### YamlMime:XRefMap
 sorted: true
-references: []
+references:
+- uid: developer_license
+  name: Request a Developer License
+  href: articles/developer_license.html
