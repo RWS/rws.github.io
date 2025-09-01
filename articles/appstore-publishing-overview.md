@@ -4,7 +4,7 @@ title: "AppStore Publishing Guide"
 
 ## AppStore Publishing Guide
 
-RWS provides several pathways for developers to distribute their applications and plugins to the [RWS Developer Community](https://community.rws.com/developers-more/). Whether you're building plugins for **Trados Studio**, add-ons for **Trados Cloud**, or integrations with **Language Weaver**, **Tridion** etc..., this guide will help you navigate the current publishing process.  
+RWS provides several pathways for developers to distribute their applications and plugins. Whether you're building plugins for **Trados Studio**, add-ons for **Trados Cloud**, or integrations with **Language Weaver**, **Tridion** etc..., this guide will help you navigate the current publishing process.  
 
 ### Current Publishing Process
 
