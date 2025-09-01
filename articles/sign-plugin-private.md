@@ -19,7 +19,7 @@ Include the following `required information` in the email body:
 | **Download Link** | Share link to unsigned plugin | OneDrive, SharePoint, Google Drive, Dropbox (no email attachments) |
 | **Plugin Name** | Name of plugin | Must match plugin manifest |
 | **Plugin Version** | Version number | Must match plugin manifest |
-| **Supported Products** | Target Trados products | "Trados Studio 2024" or "Trados Team/Enterprise (Cloud)" |
+| **Supported Products** | Target Trados products | "Trados Studio" or "Trados Cloud" |
 | **Plugin Description** | Brief purpose description | *Optional but recommended* - helps validate metadata |
 | **Distribution Notes** | Special requirements | *Optional* - e.g., need Private AppStore endpoint |
 

@@ -7,7 +7,8 @@ ms.date: "01/15/2024"
 
 # Publish an App Version on the AppStore
 
-Publishing to the RWS AppStore makes your app discoverable to thousands of Trados users worldwide. This process includes validation, proper signing, and listing creation to ensure a professional presentation of your solution.
+Publishing to the RWS AppStore makes your app discoverable to thousands of RWS users worldwide. This process includes validation, proper signing, and listing creation to ensure a professional presentation of your solution.
+
 
 ## What You Need to Provide
 
@@ -19,7 +20,7 @@ Include the following `required information` in the email body:
 | **Download Link** | Share link to app package | OneDrive, SharePoint, Google Drive, Dropbox (no email attachments) |
 | **App Name** | Name for publication | Must match plugin/add-on manifest |
 | **App Version** | Version number | Must match plugin/add-on manifest |
-| **Supported Products** | Target Trados products | "Trados Studio 2024" or "Trados Team/Enterprise (Cloud)" |
+| **Supported Products** | Target RWS products | "Trados Studio", "Trados Cloud", "Language Weaver", "Tridion", etc. |
 | **App Logo** | App icon/logo | 512 x 512 PNG recommended |
 | **App Description** | User-focused description | Include both short summary and longer description if available |
 | **Support Contact** | Support information | Email address or support portal URL |
