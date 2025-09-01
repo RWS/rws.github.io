@@ -15,6 +15,25 @@ _enableSearch: false
 </div>
 
 <div class="container" style="margin-left: -10px;">
+  <h2 id="getting-started-support" style="color: #006666;">Getting Started & Support</h2>
+  <p style="color: Black;">New to RWS development? Start here for essential resources including developer licensing, app publishing guidance, and community support to help you build and distribute your solutions successfully.</p>
+  <div class="tile-container">
+    <div class="tile">
+      <a href="/articles/appstore-publishing-overview.html">
+        <h3 style="color: #008080">AppStore Publishing Guide</h3>
+        <p style="color: Black;">Learn how to publish apps and plugins to the <span style="font-weight: 600;">RWS AppStore</span>, request code signing, and get early access to the new <span style="font-weight: 600;">AppStore Manager</span> platform.</p>
+      </a>
+    </div>
+    <div class="tile">
+      <a href="https://community.rws.com/developers-more/" target="_blank">
+        <h3 style="color: #008080">Developer Support</h3>
+        <p style="color: Black;">Join the <span style="font-weight: 600;">Developer Community</span> to engage with fellow developers and get support.</p>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="container" style="margin-left: -10px;">
   <h2 style="color: #006666;">Language Technology</h2>
   <p style="color: Black;">Turn your ideas into solutions with RWS. By integrating with RWS products, you can unlock advanced capabilities to meet your unique business requirements through APIs, SDKs, Add-ons and plugins.</p>    
   <div class="tile-container">
@@ -68,12 +87,6 @@ _enableSearch: false
         <p style="color: Black;">Streamline and automate the digital transformation and publishing of your content deliverables.</p>
       </a>
     </div>
-    <div class="tile">
-      <a href="https://developers.rws.com/contenta-api-docs/index.html">
-        <h3 style="color: #008080;">Contenta</h3>
-        <p style="color: Black;">Enable integration and increase productivity with automation across the content lifecycle management workflow.</p>
-      </a>
-    </div>
   </div>
 </div>
 
@@ -121,18 +134,6 @@ _enableSearch: false
       <a href="https://developers.rws.com/business-manager-api-docs/index.html">
         <h3 style="color: #008080">Trados Business Manager</h3>
         <p style="color: Black;">Create, edit and delete any data contained in your business management environment.</p>
-      </a>
-    </div>
-  </div>
-</div>
-
-<div class="container" style="margin-left: -10px;">
-  <h2 id="getting-started-support" style="color: #006666;">Getting Started & Support</h2>
-  <div class="tile-container">
-    <div class="tile">
-      <a href="https://community.rws.com/developers-more/" target="_blank">
-        <h3 style="color: #008080">Developer Support</h3>
-        <p style="color: Black;">Join the <span style="font-weight: 600;">Developer Community</span> to engage with fellow developers and get support.</p>
       </a>
     </div>
   </div>

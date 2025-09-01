@@ -1,0 +1,14 @@
+- name: AppStore Publishing Guide
+  href: appstore-publishing-overview.md
+- name: App Publishing & Signing
+  items:
+    - name: Publish Apps on AppStore
+      href: publish-app-appstore.md
+    - name: Sign Plugin for Private Distribution
+      href: sign-plugin-private.md
+    - name: Request Developer License
+      href: developer_license.md
+- name: Beta Programs
+  items:
+    - name: AppStore Manager Beta
+      href: appstore-manager-beta.md
