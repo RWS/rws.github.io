@@ -1,4 +1,5 @@
 ---
+uid: "sign-plugin-private"
 title: "Sign a Plugin for Private Distribution"
 description: "Get your Trados Studio plugins properly signed by RWS for private distribution outside the public AppStore"
 author: "RWS"

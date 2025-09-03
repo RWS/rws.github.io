@@ -19,6 +19,12 @@ _enableSearch: false
   <p style="color: Black;">New to RWS development? Start here for essential resources including developer licensing, app publishing guidance, and community support to help you build and distribute solutions across the <span style="font-weight: 600;">RWS ecosystem</span>.</p>
   <div class="tile-container">
     <div class="tile">
+      <a href="/articles/developer_license.html">
+        <h3 style="color: #008080">Request Developer License</h3>
+        <p style="color: Black;">Get started with <span style="font-weight: 600;">RWS development</span> by requesting the necessary licenses and API access for building solutions across the <span style="font-weight: 600;">RWS product ecosystem</span>.</p>
+      </a>
+    </div>
+    <div class="tile">
       <a href="/articles/appstore-publishing-overview.html">
         <h3 style="color: #008080">AppStore Publishing Guide</h3>
         <p style="color: Black;">Learn how to publish apps and integrations to the <span style="font-weight: 600;">RWS AppStore</span>, request code signing, and get early access to the new <span style="font-weight: 600;">AppStore Manager</span> platform.</p>
@@ -38,7 +44,7 @@ _enableSearch: false
   <p style="color: Black;">Turn your ideas into solutions with RWS. By integrating with RWS products, you can unlock advanced capabilities to meet your unique business requirements through APIs, SDKs, Add-ons and plugins.</p>    
   <div class="tile-container">
     <div class="tile">
-      <a href="https://developers.rws.com/languagecloud-api-docs/index.html" target="_blank">
+      <a href="https://developers.rws.com/languagecloud-api-docs/index.html">
         <h3 style="color: #008080">Trados Cloud</h3>
         <p style="color: Black;">
           Integrate external applications with 

@@ -1,3 +1,10 @@
+---
+uid: appstore-manager-beta
+title: AppStore Manager Beta
+description: Get early access to the new AppStore Manager platform for self-service app publishing and management across the RWS ecosystem
+author: RWS
+---
+
 ## AppStore Manager Beta
 
 ### Early Access to Self-Service Publishing

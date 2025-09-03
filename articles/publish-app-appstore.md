@@ -1,4 +1,5 @@
 ---
+uid: "publish-app-appstore"
 title: "Publish an App Version on the AppStore"
 description: "Learn how to publish your Trados apps and plugins to the RWS AppStore for public or private distribution"
 author: "RWS"

@@ -1,10 +1,14 @@
 ---
+uid: appstore-publishing-overview
 title: "AppStore Publishing Guide"
+description: "Learn how to publish and distribute applications across the RWS ecosystem through the AppStore"
+author: "RWS"
+ms.date: "01/15/2024"
 ---
 
 ## AppStore Publishing Guide
 
-RWS provides several pathways for developers to distribute their applications and plugins. Whether you're building plugins for **Trados Studio**, add-ons for **Trados Cloud**, or integrations with **Language Weaver**, **Tridion** etc..., this guide will help you navigate the current publishing process.  
+RWS provides several pathways for developers to distribute their applications and integrations across our product ecosystem. Whether you're building **Studio plugins**, **Cloud add-ons**, **Language Weaver integrations**, **Tridion extensions**, or solutions for other **RWS products**, this guide will help you navigate the current publishing process. 
 
 ### Current Publishing Process
 
@@ -26,6 +30,16 @@ We're developing **AppStore Manager**, a self-service platform that will empower
 **Current Status:** AppStore Manager is in beta testing. [Learn more about the beta program](appstore-manager-beta.md).
 
 
-### Support
+## Getting Started
 
-For questions about app publishing or to request services, contact: [AppStore Support](mailto:app-signing@rws.com)
+1. **Determine your target product(s)** - Identify which RWS products your solution will integrate with
+2. **Obtain developer access** - Request licenses or API credentials as needed
+3. **Build your solution** - Use our APIs and SDKs to create your application
+4. **Choose distribution method** - Public AppStore, private distribution, or custom endpoint
+5. **Submit for publication** - Follow our current process or join the beta program
+
+## Support
+
+For questions about app publishing, developer access, or to request services:
+- **Email:** [app-signing@rws.com](mailto:app-signing@rws.com)
+- **Community:** [RWS Developer Community](https://community.rws.com/developers-more/)

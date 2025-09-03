@@ -6,8 +6,8 @@
       href: publish-app-appstore.md
     - name: Sign Plugin for Private Distribution
       href: sign-plugin-private.md
-    - name: Request Developer License
-      href: developer_license.md
+- name: Request Developer License
+  href: developer_license.md
 - name: Beta Programs
   items:
     - name: AppStore Manager Beta
