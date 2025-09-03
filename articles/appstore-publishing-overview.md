@@ -17,7 +17,7 @@ Until our new self-service platform becomes available, the RWS team manages app 
 **Available Services:**
 - **[Publish Apps on the AppStore](publish-app-appstore.md)** - Distribute your apps publicly or privately through the RWS AppStore
 - **[Sign Plugins for Private Distribution](sign-plugin-private.md)** - Get your Trados Studio plugins properly signed for direct distribution
-- **[Request a Developer License](developer_license.md)** - Obtain the necessary licenses to develop with Trados APIs
+- **[Request a Developer License](developer_license.md)** - Obtain necessary licenses and API credentials
 
 ### What's Coming: AppStore Manager
 
