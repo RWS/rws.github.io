@@ -1,6 +1,18 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
+- uid: appstore-manager-beta
+  name: AppStore Manager Beta
+  href: articles/appstore-manager-beta.html
+- uid: appstore-publishing-overview
+  name: AppStore Publishing Guide
+  href: articles/appstore-publishing-overview.html
 - uid: developer_license
   name: Request a Developer License
   href: articles/developer_license.html
+- uid: publish-app-appstore
+  name: Publish an App Version on the AppStore
+  href: articles/publish-app-appstore.html
+- uid: sign-plugin-private
+  name: Sign a Plugin for Private Distribution
+  href: articles/sign-plugin-private.html
