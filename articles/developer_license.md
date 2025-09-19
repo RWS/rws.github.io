@@ -21,7 +21,7 @@ Developer access requirements vary across the RWS product ecosystem. Choose from
 - Best suited for solutions requiring team collaboration, centralized project management, and cloud workflows.
 
 **Other RWS Products**
-- Language Weaver, Tridion, MultiTerm, etc.
+- Language Weaver, Tridion, XPP, MultiTerm, Passolo, GroupShare, WorldServer, Managed Translation, MultiTrans, Trados Business Manager.
 - Refer to respective product documentation for developer access
 - Contact [AppStore Support](mailto:app-signing@rws.com) if you're unsure about requirements 
 
