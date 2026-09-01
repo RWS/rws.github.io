@@ -12,7 +12,7 @@ If you plan to distribute a Trados Studio plugin privately (outside the public A
 
 ## Request Plugin Signing
 
-Send an email to [AppStore Support](mailto:app-signing@rws.com) with the subject: **Sign Plugin**: `<Plugin Name> v<Version>`  
+Send an email to [Technical Partner Support](mailto:techpartners@rws.com) with the subject: **Sign Plugin**: `<Plugin Name> v<Version>`  
 Include the following `required information` in the email body:  
 
 | Item | Description | Example/Notes |

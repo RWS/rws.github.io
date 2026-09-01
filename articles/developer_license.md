@@ -23,11 +23,11 @@ Developer access requirements vary across the RWS product ecosystem. Choose from
 **Other RWS Products**
 - Language Weaver, Tridion, XPP, MultiTerm, Passolo, GroupShare, WorldServer, Managed Translation, MultiTrans, Trados Business Manager.
 - Refer to respective product documentation for developer access
-- Contact [AppStore Support](mailto:app-signing@rws.com) if you're unsure about requirements 
+- Contact [Technical Partner Support](mailto:techpartners@rws.com) if you're unsure about requirements 
 
 ## Apply for a Developer License
 
-Send an email to [AppStore Support](mailto:app-signing@rws.com) with the following information:  
+Send an email to [Technical Partner Support](mailto:techpartners@rws.com) with the following information:  
 1. **Full name and address** - For identification and license assignment
 2. **Development purpose** - Describe your intended use:
    - Custom integrations
@@ -64,6 +64,6 @@ Once you have your developer license:
 
 ## Need Help?
 
-- **License questions:** [AppStore Support](mailto:app-signing@rws.com)
+- **License questions:** [Technical Partner Support](mailto:techpartners@rws.com)
 - **Development support:** [RWS Developer Community](https://community.rws.com/developers-more/)
 - **API documentation:** Browse our product-specific API guides on this site

@@ -32,7 +32,7 @@ AppStore Manager represents the future of app distribution for the RWS ecosystem
 - Organizations managing multiple plugins/add-ons
 
 **How to Apply:**
-Send an email to [AppStore Support](mailto:app-signing@rws.com) with:
+Send an email to [Technical Partner Support](mailto:techpartners@rws.com) with:
 - **Subject:** `AppStore Manager Beta: <Your Organization>`
 - **Include:** Brief description of your current or planned apps
 
@@ -40,4 +40,4 @@ Our team will respond with access details and onboarding information.
 
 ### Timeline to General Availability
 
-We expect AppStore Manager to be generally available in **Q2 2026**. Beta participants will automatically transition to full accounts at launch.
+We expect AppStore Manager to be generally available in late 2027. Beta participants will automatically transition to full accounts at launch.

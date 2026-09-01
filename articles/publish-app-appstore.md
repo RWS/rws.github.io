@@ -13,7 +13,7 @@ Publishing to the RWS AppStore makes your app discoverable to thousands of RWS u
 
 ## What You Need to Provide
 
-Send an email to [AppStore Support](mailto:app-signing@rws.com) with the subject: **Publish App on AppStore**: `<App Name> v<Version>`  
+Send an email to [Technical Partner Support](mailto:techpartners@rws.com) with the subject: **Publish App on AppStore**: `<App Name> v<Version>`  
 Include the following `required information` in the email body:  
 
 | Item | Description | Example/Notes |

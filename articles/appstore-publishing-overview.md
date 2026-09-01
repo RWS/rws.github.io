@@ -41,5 +41,5 @@ We're developing **AppStore Manager**, a self-service platform that will empower
 ## Support
 
 For questions about app publishing, developer access, or to request services:
-- **Email:** [app-signing@rws.com](mailto:app-signing@rws.com)
+- **Email:** [Technical Partner Support](mailto:techpartners@rws.com)
 - **Community:** [RWS Developer Community](https://community.rws.com/developers-more/)
