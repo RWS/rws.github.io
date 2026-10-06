@@ -25,6 +25,9 @@ git rm -r *
 write-host "Copy documentation into the repo"
 Copy-Item "$SOURCE_DIR\_site\*" . -Recurse -force
 
+write-host "Keep the custom domain (without this file every publish removes developers.rws.com)"
+Set-Content -Path CNAME -Value "developers.rws.com" -NoNewline
+
 write-host "Push the new docs to the remote branch"
 git config --local user.email "github-actions[bot]@users.noreply.sdl.com"
 git config --local user.name "github-actions[bot]"
