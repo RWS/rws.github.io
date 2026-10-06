@@ -6,3 +6,18 @@ $(document).ready(function () {
         $(".article").css("margin-top", "0px");
     }
 });
+
+// Press / to search; Esc clears the search and leaves the box
+document.addEventListener('keydown', function (e) {
+    var box = document.getElementById('search-query');
+    if (!box) return;
+    var tag = (document.activeElement && document.activeElement.tagName) || '';
+    if (e.key === '/' && tag !== 'INPUT' && tag !== 'TEXTAREA' && !document.activeElement.isContentEditable) {
+        e.preventDefault();
+        box.focus();
+    } else if (e.key === 'Escape' && document.activeElement === box) {
+        box.value = '';
+        box.dispatchEvent(new KeyboardEvent('keyup', { bubbles: true }));
+        box.blur();
+    }
+});

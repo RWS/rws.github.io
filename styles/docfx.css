@@ -4,11 +4,17 @@
   --header-bg-color: #fff;
   --header-ft-color: #979FB2;
   --input-text: #758099;
-  --highlight-light: #008080;
-  --highlight-dark: #006666;
+  --highlight-light: #8353FD;
+  --highlight-dark: #3E016F;
+  --brand-purple: #3E016F;
+  --brand-violet: #8353FD;
+  --brand-magenta: #E60154;
+  --brand-tint: #F5F0FF;
+  --brand-tint-strong: #E0D4FF;
+  --brand-gradient: linear-gradient(95deg, #3E016F 0%, #8353FD 24%, #E60154 48%, #E60154 52%, #8353FD 76%, #3E016F 100%);
   --accent-dim: #E6E8ED;
   --accent-super-dim: #F4F5F7;
-  --font-color: #282C36;
+  --font-color: #0F001B;
   --card-box-shadow: 0 1px 2px 0 rgba(61, 65, 68, 0.06), 0 1px 3px 1px rgba(61, 65, 68, 0.16);
   --search-box-shadow: 0 1px 2px 0 rgba(41, 45, 48, 0.36), 0 1px 3px 1px rgba(41, 45, 48, 0.46);
   --transition: 350ms;
@@ -605,11 +611,11 @@ body .toc {
   text-decoration: inherit;
 }
 .toc .nav > li.active > a {
-  color: #337ab7;
+  color: var(--highlight-light);
 }
 .toc .nav > li.active > a:hover,
 .toc .nav > li.active > a:focus {
-  color: #23527c;
+  color: var(--highlight-dark);
 }
 
 .toc .nav > li> .expand-stub {
@@ -894,7 +900,7 @@ body .toc {
 }
 .affix > ul > li.active > a,
 .affix > ul > li.active > a:before {
-  color: #337ab7;
+  color: var(--highlight-light);
   font-weight: bold;
 }
 .affix ul ul > li > a {
@@ -1078,7 +1084,7 @@ code {
 }
 
 a code {
-  color: #337ab7;
+  color: var(--highlight-light);
   background-color: #f1f2f3;
 }
 
