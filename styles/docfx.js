@@ -154,10 +154,9 @@ $(function () {
         if (navbar.height() === null) {
           setTimeout(autoCollapse, 300);
         }
-        navbar.removeClass(collapsed);
-        if (navbar.height() > 60) {
-          navbar.addClass(collapsed);
-        }
+        // Collapse by window width, not navbar height: the menu sits on its own row
+        // under the logo, so the navbar is always taller than 60px once the menu loads.
+        navbar.toggleClass(collapsed, window.innerWidth < 768);
       }
     }
 
