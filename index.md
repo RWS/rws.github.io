@@ -88,11 +88,11 @@ _enableSearch: true
     </a>
   </div>
   <details class="lp-more" id="other-sdks-and-apis">
-    <summary>Other SDKs and APIs: MultiTerm, Passolo, GroupShare and 4 more</summary>
+    <summary>Other SDKs and APIs: MultiTerm, Passolo, Trados Edge and 4 more</summary>
     <div class="lp-grid">
       <a class="lp-card" href="https://developers.rws.com/multiterm-api-docs/index.html"><p class="t">MultiTerm</p><p class="d">Manage terminology and share termbases.</p></a>
       <a class="lp-card" href="https://developers.rws.com/passolo-api-docs/index.html"><p class="t">Passolo</p><p class="d">Add-ins for software localization.</p></a>
-      <a class="lp-card" href="https://developers.rws.com/groupshare-api-docs/index.html"><p class="t">Trados GroupShare</p><p class="d">On-premises translation management.</p></a>
+      <a class="lp-card" href="https://developers.rws.com/groupshare-api-docs/index.html"><p class="t">Trados Edge</p><p class="d">Self-hosted translation management (formerly GroupShare).</p></a>
       <a class="lp-card" href="https://developers.rws.com/worldserver-api-docs/index.html"><p class="t">WorldServer</p><p class="d">Integrations and UI customization for your TMS.</p></a>
       <a class="lp-card" href="https://developers.rws.com/mantra-api-docs/index.html"><p class="t">Managed Translation</p><p class="d">Connect translation resources to your process.</p></a>
       <a class="lp-card" href="https://developers.rws.com/multitrans-api-docs/index.html"><p class="t">MultiTrans</p><p class="d">Third-party integrations and TMS projects.</p></a>
